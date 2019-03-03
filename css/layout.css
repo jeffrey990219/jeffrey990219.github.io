@@ -550,7 +550,7 @@ fieldset[disabled] .btn-theme {
   width: 21px;
   height: 1px;
   display: inline-block;
-  background: #515769;
+  background: #fff;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -559,7 +559,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar-toggle .toggle-icon:before, .header .navbar-toggle .toggle-icon:after {
   position: absolute;
   left: 0;
-  background: #515769;
+  background: #fff;
   content: " ";
 }
 
@@ -760,7 +760,7 @@ fieldset[disabled] .btn-theme {
   }
   /* Navbar Nav */
   .header .nav-item-child {
-    color: #515769;
+    color: #fff;
     line-height: 1.4;
     padding: 12px 12px 12px 15px;
   }
@@ -824,7 +824,7 @@ fieldset[disabled] .btn-theme {
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
   .page-on-scroll .header .nav-item-child {
-    color: #515769;
+    color: #fff;
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -960,7 +960,7 @@ fieldset[disabled] .btn-theme {
 }
 
 .color-heading {
-  color: #515769 !important;
+  color: #fff !important;
 }
 
 .color-subtitle {
