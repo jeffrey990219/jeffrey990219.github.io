@@ -23,6 +23,7 @@
   		(colors, typography, margins & padding).]
 ------------------------------------------------------------------*/
 html {
+  scroll-behavior: smooth;
   overflow-x: hidden;
 }
 
