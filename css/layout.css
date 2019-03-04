@@ -806,9 +806,9 @@ fieldset[disabled] .btn-theme {
 @media (min-width: 992px) {
   .page-on-scroll .header .navbar {
     background: #3e495b;
-    border-bottom-color: #f0f0f0;
+    border-bottom-color: #40495a;
     transition-duration: 300ms;
-    transition-property: all;
+    transition-property: all;l
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
   .page-on-scroll .header .logo-img-main {
